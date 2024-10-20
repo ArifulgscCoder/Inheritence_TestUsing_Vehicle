@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritence_TestUsing_Vehicle", "Inheritence_TestUsing_Vehicle\Inheritence_TestUsing_Vehicle.csproj", "{EA9B32EA-F8F3-4698-8FBB-D9F0BFFAC94C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA9B32EA-F8F3-4698-8FBB-D9F0BFFAC94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA9B32EA-F8F3-4698-8FBB-D9F0BFFAC94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA9B32EA-F8F3-4698-8FBB-D9F0BFFAC94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA9B32EA-F8F3-4698-8FBB-D9F0BFFAC94C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A10D8D4D-3DCC-411C-91D3-0717E0335A75}
+	EndGlobalSection
+EndGlobal
